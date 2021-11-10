@@ -1,0 +1,43 @@
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef Block\bin\Debug\basicDef Block.exe.config
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef Block\bin\Debug\basicDef Block.exe
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef Block\bin\Debug\basicDef Block.pdb
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef Block\obj\Debug\basicDef Block.csprojAssemblyReference.cache
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef Block\obj\Debug\basicDef_Block.Properties.Resources.resources
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef Block\obj\Debug\basicDef Block.csproj.GenerateResource.cache
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef Block\obj\Debug\basicDef Block.csproj.CoreCompileInputs.cache
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef Block\obj\Debug\basicDef Block.exe
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef Block\obj\Debug\basicDef Block.pdb
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef Block\obj\Debug\basicDef_Block.Apps.resources
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef Block\obj\Debug\basicDef_Block.Main_Application.resources
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef Block\obj\Debug\basicDef_Block.App_Flow.resources
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef Block\bin\Debug\CodeFluent.Runtime.Client.dll
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef Block\bin\Debug\CodeFluent.Runtime.Client.xml
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef Block\obj\Debug\basicDef Block.csproj.CopyComplete
+C:\Users\PizsomaLovag\Desktop\basicDef\basicDef-Block\basicDef Block\bin\Debug\basicDef Block.exe.config
+C:\Users\PizsomaLovag\Desktop\basicDef\basicDef-Block\basicDef Block\bin\Debug\basicDef Block.exe
+C:\Users\PizsomaLovag\Desktop\basicDef\basicDef-Block\basicDef Block\bin\Debug\basicDef Block.pdb
+C:\Users\PizsomaLovag\Desktop\basicDef\basicDef-Block\basicDef Block\obj\Debug\basicDef Block.csprojAssemblyReference.cache
+C:\Users\PizsomaLovag\Desktop\basicDef\basicDef-Block\basicDef Block\obj\Debug\basicDef_Block.Apps.resources
+C:\Users\PizsomaLovag\Desktop\basicDef\basicDef-Block\basicDef Block\obj\Debug\basicDef_Block.App_Flow.resources
+C:\Users\PizsomaLovag\Desktop\basicDef\basicDef-Block\basicDef Block\obj\Debug\basicDef_Block.Main_Application.resources
+C:\Users\PizsomaLovag\Desktop\basicDef\basicDef-Block\basicDef Block\obj\Debug\basicDef_Block.Properties.Resources.resources
+C:\Users\PizsomaLovag\Desktop\basicDef\basicDef-Block\basicDef Block\obj\Debug\basicDef Block.csproj.GenerateResource.cache
+C:\Users\PizsomaLovag\Desktop\basicDef\basicDef-Block\basicDef Block\obj\Debug\basicDef Block.csproj.CoreCompileInputs.cache
+C:\Users\PizsomaLovag\Desktop\basicDef\basicDef-Block\basicDef Block\obj\Debug\basicDef Block.exe
+C:\Users\PizsomaLovag\Desktop\basicDef\basicDef-Block\basicDef Block\obj\Debug\basicDef Block.pdb
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef-Block\basicDef Block\bin\Debug\basicDef Block.exe.config
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef-Block\basicDef Block\bin\Debug\basicDef Block.exe
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef-Block\basicDef Block\bin\Debug\basicDef Block.pdb
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef-Block\basicDef Block\bin\Debug\CodeFluent.Runtime.Client.xml
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef-Block\basicDef Block\obj\Debug\basicDef Block.csprojAssemblyReference.cache
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef-Block\basicDef Block\obj\Debug\basicDef_Block.Apps.resources
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef-Block\basicDef Block\obj\Debug\basicDef_Block.App_Flow.resources
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef-Block\basicDef Block\obj\Debug\basicDef_Block.Main_Application.resources
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef-Block\basicDef Block\obj\Debug\basicDef_Block.Properties.Resources.resources
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef-Block\basicDef Block\obj\Debug\basicDef Block.csproj.GenerateResource.cache
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef-Block\basicDef Block\obj\Debug\basicDef Block.csproj.CoreCompileInputs.cache
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef-Block\basicDef Block\obj\Debug\basicDef Block.csproj.CopyComplete
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef-Block\basicDef Block\obj\Debug\basicDef Block.exe
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef-Block\basicDef Block\obj\Debug\basicDef Block.pdb
+C:\Users\PizsomaLovag\Desktop\Code Learn\basicDef Block\basicDef-Block\basicDef Block\obj\Debug\basicDef Block.csproj.Fody.CopyLocal.cache
+C:\Users\PizsomaLovag\Desktop\basicDef\basicDef-Block\basicDef Block\obj\Debug\basicDef Block.csproj.Fody.CopyLocal.cache
