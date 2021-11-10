@@ -1,8 +1,10 @@
 # basicDef
 An applicaton for blocking other application or services.
 
+<p align="center">
+  <img src="basicDef%20Block/images/menu.jpg" width="200" title="hover text">
+  <img src="basicDef%20Block/images/list.jpg" width="200" alt="accessibility text">
+  <img src="basicDef%20Block/images/list.jpg" width="200" alt="accessibility text">
+</p>
 
-![GitHub Logo](https://github.com/Pizsx69/basicDef/blob/main/basicDef%20Block/images/menu.jpg) Format: ![Alt Text](url) 
-![GitHub Logo](https://github.com/Pizsx69/basicDef/blob/main/basicDef%20Block/images/list.jpg) Format: ![Alt Text](url) 
-![GitHub Logo](https://github.com/Pizsx69/basicDef/blob/main/basicDef%20Block/images/sign.jpg) Format: ![Alt Text](url) 
-![GitHub Logo](https://github.com/Pizsx69/basicDef/blob/main/basicDef%20Block/images/TestTest.pdf) Format: ![Alt Text](url) 
+
